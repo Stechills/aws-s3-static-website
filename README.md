@@ -29,19 +29,18 @@ The goal of this project was to understand how cloud storage works and how to ho
 
 "View Website" (https://nullghost.s3.eu-north-1.amazonaws.com/index.html)
 
----
+ 📸 Screenshots
 
-📸 Screenshots
+ S3 Bucket
+[https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20015432.png)
 
-S3 Bucket
+ Website Output
+[https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20022203.png)
 
-"S3 Bucket" ()
+HTML script
+[https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20015033.png)
 
-Website Output
 
-"Website" (https://nullghost.s3.eu-north-1.amazonaws.com/index.html)
-
----
 
 🧠 What I Learned
 
