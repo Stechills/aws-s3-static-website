@@ -29,11 +29,12 @@ The goal of this project was to understand how cloud storage works and how to ho
  📸 Screenshots
 
  S3 Bucket
-https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/S3-bucket.png
+https://github.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20015432.png
 
  Website Output
 https://github.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20022203.png
-HTML script
+
+ HTML script
 https://github.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20015033.png
 
 
