@@ -6,7 +6,6 @@ This is my first cloud computing project where I deployed a simple website using
 
 The goal of this project was to understand how cloud storage works and how to host a website on AWS.
 
----
 
 🚀 What I Built
 
@@ -15,7 +14,6 @@ The goal of this project was to understand how cloud storage works and how to ho
 - Enabled static website hosting
 - Made the website accessible through a public URL
 
----
 
 🛠️ Tools & Services Used
 
@@ -23,7 +21,6 @@ The goal of this project was to understand how cloud storage works and how to ho
 - HTML
 - AWS Management Console
 
----
 
 🌍 Live Demo
 
@@ -32,14 +29,13 @@ The goal of this project was to understand how cloud storage works and how to ho
  📸 Screenshots
 
  S3 Bucket
-[https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/S3-bucket.png)
+https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/S3-bucket.png
 
  Website Output
 [https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/website-output.png)
 
 HTML script
-[https://raw.githubusercontent.com/Stechills/aws-s3-static-website/blob/main/html-script.png)
-
+https://github.com/Stechills/aws-s3-static-website/blob/main/Screenshot%202026-05-05%20015033.png
 
 
 🧠 What I Learned
